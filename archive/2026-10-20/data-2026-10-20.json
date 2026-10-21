@@ -1,0 +1,70 @@
+{
+  "trade_date": "2026-10-20",
+  "screens": [
+    {
+      "code": "BULL_S2",
+      "count": 194,
+      "universe_count": 1191
+    },
+    {
+      "code": "BULL_S2RS",
+      "count": 136,
+      "universe_count": 1191
+    },
+    {
+      "code": "CRASH_A",
+      "count": 114,
+      "universe_count": 1191
+    },
+    {
+      "code": "CRASH_B",
+      "count": 118,
+      "universe_count": 1191
+    },
+    {
+      "code": "CRASH_C",
+      "count": 338,
+      "universe_count": 1191
+    },
+    {
+      "code": "CRASH_C0",
+      "count": 658,
+      "universe_count": 1191
+    },
+    {
+      "code": "EARN_BIG",
+      "count": 29,
+      "universe_count": 1191
+    },
+    {
+      "code": "EARN_GAP",
+      "count": 3,
+      "universe_count": 1191
+    },
+    {
+      "code": "EARN_GAP_E",
+      "count": 1,
+      "universe_count": 1191
+    },
+    {
+      "code": "IPO_BASE",
+      "count": 14,
+      "universe_count": 1191
+    },
+    {
+      "code": "RANGE_A",
+      "count": 231,
+      "universe_count": 1191
+    },
+    {
+      "code": "RANGE_B",
+      "count": 7,
+      "universe_count": 1191
+    },
+    {
+      "code": "RANGE_C",
+      "count": 41,
+      "universe_count": 1191
+    }
+  ]
+}
